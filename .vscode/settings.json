@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "Aprovado ou Reprovado.C": "cpp",
+        "Aprovado ou Reprovado Media.C": "cpp",
+        "Area da Circuferencia.C": "cpp",
+        "Busca Vetor Simples.C": "cpp",
+        "Caractere.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
